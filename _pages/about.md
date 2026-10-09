@@ -13,11 +13,15 @@ redirect_from:
 My name is **Zhihan Zhang**. I am currently a master's student at the School of Remote Sensing and Information Engineering, Wuhan University, China, supervised by Professor [Zhenzhong Chen](https://zhenzhong-chen.github.io/).  
 My research interests include video understanding and efficient multimodal large language models (MLLMs).
 
+<span class='anchor' id='news'></span>
+
 # 🔥 News
 
 <!-- Add verified milestones here, newest first. -->
 
 - **2026.05** 🏆 Won 1st place in the Low-light Enhanced Image Quality Assessment Challenge at QoMEX 2026.
+
+<span class='anchor' id='publications'></span>
 
 # 📝 Publications
 
@@ -70,12 +74,16 @@ One or two sentences about the project and your contribution.
 [Code](YOUR_REPOSITORY_URL) / [Demo](YOUR_DEMO_URL)
 -->
 
+<span class='anchor' id='competition-awards'></span>
+
 # 🏆 Competition Awards
 
 - **2026.05** 🏆 **1st Place**, Low-light Enhanced Image Quality Assessment Challenge, QoMEX 2026 Grand Challenge (International Conference on Quality of Multimedia Experience).
 - **2024.08** 🥇 **National First Prize**, Scientific Paper Competition, National College Students' Innovation and Entrepreneurship Intelligent Competition in Surveying and Mapping Discipline.
 - **2023.09** 🥇 **First Prize (Hubei Province)**, China Undergraduate Mathematical Contest in Modeling.
 - **2023.05** 🥇 **First Prize**, 15th Huazhong Cup College Students' Mathematical Modeling Challenge.
+
+<span class='anchor' id='scholarships-and-awards'></span>
 
 # 🎖 Scholarships and Awards
 
@@ -87,6 +95,8 @@ One or two sentences about the project and your contribution.
 - **2022–2023** — NITORI International Scholarship.
 - **2022–2023** — Second-Class Outstanding Student Scholarship, Wuhan University.
 - **2021–2022** — National Scholarship (China).
+
+<span class='anchor' id='education'></span>
 
 # 📖 Education
 
