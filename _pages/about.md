@@ -10,44 +10,58 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Zhihan Zhang**, a **Master’s student at Wuhan University**. My research interests focus on **Video Understanding** and **Efficient Multimodal Large Language Models (MLLMs)**.
-
-I am particularly interested in how multimodal models can understand video content more effectively and efficiently. I welcome academic discussions and research collaborations.
+My name is **Zhihan Zhang**. I am currently a master's student at the School of Remote Sensing and Information Engineering, Wuhan University, China, supervised by Professor [Zhenzhong Chen](https://zhenzhong-chen.github.io/).  
+My research interests include video understanding and efficient multimodal large language models (MLLMs).
 
 # 🔥 News
 
-<!-- Add verified milestones here, newest first. Example format: - **YYYY.MM**: Your news. -->
+<!-- Add verified milestones here, newest first. -->
 
-*Updates will be posted here.*
+- **2026.05** 🏆 Won 1st place in the Low-light Enhanced Image Quality Assessment Challenge at QoMEX 2026.
 
 # 📝 Publications
 
-<!-- When you have a real publication, replace the placeholder text below with a paper-box block following the AcadHomepage template style. No publications are claimed here. -->
+<div class="paper-box">
+  <div class="paper-box-image">
+    <a href="/images/RSVQA.png"><img src="/images/RSVQA.png" alt="Remote sensing segmentation quality assessment workflow" loading="lazy"></a>
+  </div>
+  <div class="paper-box-text">
+    <p><strong>Remote Sensing Semantic Segmentation Quality Assessment Based on Vision Language Model</strong></p>
+    <p>Huiying Shi, Zhihong Tan, <strong>Zhihan Zhang</strong>, Hongchen Wei, Yaosi Hu, Yingxue Zhang, and Zhenzhong Chen.</p>
+    <p><em>IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2025.</em></p>
+    <p><a href="https://ieeexplore.ieee.org/document/11080035">Paper</a></p>
+  </div>
+</div>
 
-*Publications will be added here.*
+<div class="paper-box">
+  <div class="paper-box-image">
+    <a href="/images/LOP.png"><img src="/images/LOP.png" alt="LOP optimal pruning framework diagram" loading="lazy"></a>
+  </div>
+  <div class="paper-box-text">
+    <p><strong>LOP: Learning Optimal Pruning for Efficient On-Demand MLLMs Scaling</strong></p>
+    <p><strong>Zhihan Zhang</strong>, Xiang Pan, Hongchen Wei, and Zhenzhong Chen.</p>
+    <p><em>arXiv:2506.12826, 2025.</em></p>
+    <p><a href="https://arxiv.org/abs/2506.12826">Paper</a></p>
+  </div>
+</div>
 
-<!-- EXAMPLE LAYOUT — uncomment and edit only when you have a paper:
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VENUE YEAR</div><img src='/images/paper-placeholder.svg' alt='Paper thumbnail' width='100%'></div></div>
-<div class='paper-box-text' markdown='1'>
+<div class="paper-box">
+  <div class="paper-box-image">
+    <a href="/images/TDSAgent.png"><img src="/images/TDSAgent.png" alt="TDSAgent video question answering workflow" loading="lazy"></a>
+  </div>
+  <div class="paper-box-text">
+    <p><strong>TDSAgent: A Task-Driven Sampling Agent for Long Video Question Answering</strong></p>
+    <p><strong>Zhihan Zhang</strong>, Hongchen Wei, Jing Yi, Yaosi Hu, Chang Wen Chen, and Zhenzhong Chen<sup>*</sup>.</p>
+    <p><em>Submitted.</em></p>
+  </div>
+</div>
 
-**Paper Title**
-
-**Zhihan Zhang**, Coauthor Name
-
-*Conference or Journal, Year*
-
-[Paper](YOUR_PAPER_URL) / [Code](YOUR_CODE_URL)
-
-A short paper description.
-
-</div></div>
--->
-
+<!--
 # 🚀 Projects
 
 *Research projects will be added here.*
 
-<!-- Suggested entry:
+Suggested entry:
 ### Project Title
 **YYYY – YYYY** · Your role
 
@@ -58,14 +72,25 @@ One or two sentences about the project and your contribution.
 
 # 🏆 Competition Awards
 
-*To be updated.*
+- **2026.05** 🏆 **1st Place**, Low-light Enhanced Image Quality Assessment Challenge, QoMEX 2026 Grand Challenge (International Conference on Quality of Multimedia Experience).
+- **2024.08** 🥇 **National First Prize**, Scientific Paper Competition, National College Students' Innovation and Entrepreneurship Intelligent Competition in Surveying and Mapping Discipline.
+- **2023.09** 🥇 **First Prize (Hubei Province)**, China Undergraduate Mathematical Contest in Modeling.
+- **2023.05** 🥇 **First Prize**, 15th Huazhong Cup College Students' Mathematical Modeling Challenge.
 
 # 🎖 Scholarships and Awards
 
-*To be updated.*
+- **2025–2026** — First-Class Outstanding Freshman Scholarship (Graduate Level), Wuhan University.
+- **2025** — Outstanding Graduate, Wuhan University.
+- **2023–2024, 2021–2022** — First-Class Outstanding Student Scholarship, Wuhan University.
+- **2023–2024, 2022–2023** — Outstanding Communist Youth League Cadre, Wuhan University.
+- **2023–2024, 2022–2023, 2021–2022** — Merit Student, Wuhan University.
+- **2022–2023** — NITORI International Scholarship.
+- **2022–2023** — Second-Class Outstanding Student Scholarship, Wuhan University.
+- **2021–2022** — National Scholarship (China).
 
 # 📖 Education
 
-- **Master’s Student**, **Wuhan University**. <!-- Add degree program, department and dates when ready. -->
+- **M.Sc.**, School of Remote Sensing and Information Engineering, Wuhan University · 09.2025 – Present
+- **B.E.**, School of Remote Sensing and Information Engineering, Wuhan University · 09.2021 – 06.2025
 
 <!-- Optional future sections: Internships, Academic Service, Invited Talks. -->

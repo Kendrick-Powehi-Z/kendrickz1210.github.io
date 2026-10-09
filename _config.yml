@@ -22,12 +22,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhihan Zhang"
-  avatar           : "images/avatar-placeholder.svg"
+  avatar           : "images/zzh.JPG"
   bio              : "Master’s Student · Wuhan University"
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=HHfTzIwAAAAJ&hl=en"
   email            :
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
