@@ -27,18 +27,6 @@ My research interests include video understanding and efficient multimodal large
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <a href="{{ site.baseurl }}/images/RSVQA.png"><img src="{{ site.baseurl }}/images/RSVQA.png" alt="Remote sensing segmentation quality assessment workflow" loading="lazy"></a>
-  </div>
-  <div class="paper-box-text">
-    <p><strong>Remote Sensing Semantic Segmentation Quality Assessment Based on Vision Language Model</strong></p>
-    <p>Huiying Shi, Zhihong Tan, <strong>Zhihan Zhang</strong>, Hongchen Wei, Yaosi Hu, Yingxue Zhang, and Zhenzhong Chen.</p>
-    <p><em>IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2025.</em></p>
-    <p><a href="https://ieeexplore.ieee.org/document/11080035">Paper</a></p>
-  </div>
-</div>
-
-<div class="paper-box">
-  <div class="paper-box-image">
     <a href="{{ site.baseurl }}/images/LOP.png"><img src="{{ site.baseurl }}/images/LOP.png" alt="LOP optimal pruning framework diagram" loading="lazy"></a>
   </div>
   <div class="paper-box-text">
@@ -57,6 +45,18 @@ My research interests include video understanding and efficient multimodal large
     <p><strong>TDSAgent: A Task-Driven Sampling Agent for Long Video Question Answering</strong></p>
     <p><strong>Zhihan Zhang</strong>, Hongchen Wei, Jing Yi, Yaosi Hu, Chang Wen Chen, and Zhenzhong Chen<sup>*</sup>.</p>
     <p><em>Submitted.</em></p>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <a href="{{ site.baseurl }}/images/RSVQA.png"><img src="{{ site.baseurl }}/images/RSVQA.png" alt="Remote sensing segmentation quality assessment workflow" loading="lazy"></a>
+  </div>
+  <div class="paper-box-text">
+    <p><strong>Remote Sensing Semantic Segmentation Quality Assessment Based on Vision Language Model</strong></p>
+    <p>Huiying Shi, Zhihong Tan, <strong>Zhihan Zhang</strong>, Hongchen Wei, Yaosi Hu, Yingxue Zhang, and Zhenzhong Chen.</p>
+    <p><em>IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2025.</em></p>
+    <p><a href="https://ieeexplore.ieee.org/document/11080035">Paper</a></p>
   </div>
 </div>
 
