@@ -23,7 +23,7 @@ My research interests include video understanding and efficient multimodal large
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <a href="/images/RSVQA.png"><img src="/images/RSVQA.png" alt="Remote sensing segmentation quality assessment workflow" loading="lazy"></a>
+    <a href="images/RSVQA.png"><img src="images/RSVQA.png" alt="Remote sensing segmentation quality assessment workflow" loading="lazy"></a>
   </div>
   <div class="paper-box-text">
     <p><strong>Remote Sensing Semantic Segmentation Quality Assessment Based on Vision Language Model</strong></p>
@@ -35,7 +35,7 @@ My research interests include video understanding and efficient multimodal large
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <a href="/images/LOP.png"><img src="/images/LOP.png" alt="LOP optimal pruning framework diagram" loading="lazy"></a>
+    <a href="images/LOP.png"><img src="images/LOP.png" alt="LOP optimal pruning framework diagram" loading="lazy"></a>
   </div>
   <div class="paper-box-text">
     <p><strong>LOP: Learning Optimal Pruning for Efficient On-Demand MLLMs Scaling</strong></p>
@@ -47,7 +47,7 @@ My research interests include video understanding and efficient multimodal large
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <a href="/images/TDSAgent.png"><img src="/images/TDSAgent.png" alt="TDSAgent video question answering workflow" loading="lazy"></a>
+    <a href="images/TDSAgent.png"><img src="images/TDSAgent.png" alt="TDSAgent video question answering workflow" loading="lazy"></a>
   </div>
   <div class="paper-box-text">
     <p><strong>TDSAgent: A Task-Driven Sampling Agent for Long Video Question Answering</strong></p>
@@ -93,4 +93,4 @@ One or two sentences about the project and your contribution.
 - **M.Sc.**, School of Remote Sensing and Information Engineering, Wuhan University · 09.2025 – Present
 - **B.E.**, School of Remote Sensing and Information Engineering, Wuhan University · 09.2021 – 06.2025
 
-<!-- Optional future sections: Internships, Academic Service, Invited Talks. -->
+<!-- Optional future section: Academic Service. -->

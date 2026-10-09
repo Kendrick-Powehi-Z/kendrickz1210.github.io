@@ -79,30 +79,28 @@
 }
 
 .author__avatar {
-  display: table-cell;
+  display: block;
   vertical-align: top;
+  flex: 0 0 75px;
   width: 75px;
-  // set width only, for non-square avatars
-  // height: 36px;
+  height: 75px;
+  overflow: hidden;
+  border-radius: 50%;
 
   @include breakpoint($large) {
     display: block;
-    width: auto;
-    height: auto;
+    width: 175px;
+    height: 175px;
+    border: 1px solid $border-color;
   }
 
   img {
-    width: 75px;
-    height: 75px;
+    display: block;
+    width: 100%;
+    height: 100%;
     object-fit: cover;
-    border-radius: 50%;
-
-    @include breakpoint($large) {
-      width: 175px;
-      height: 175px;
-      padding: 5px;
-      border: 1px solid $border-color;
-    }
+    object-position: center;
+    transform: scale(2.2);
   }
 }
 
