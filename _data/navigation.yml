@@ -1,19 +1,19 @@
 # Main navigation links
 main:
   - title: "About Me"
-    url: "#about-me"
+    url: "/#about-me"
 
   - title: "News"
-    url: "#news"
+    url: "/#news"
 
   - title: "Publications"
-    url: "#publications"
+    url: "/#publications"
 
   - title: "Competition Awards"
-    url: "#competition-awards"
+    url: "/#competition-awards"
 
   - title: "Scholarships and Awards"
-    url: "#scholarships-and-awards"
+    url: "/#scholarships-and-awards"
 
   - title: "Education"
-    url: "#education"
+    url: "/#education"

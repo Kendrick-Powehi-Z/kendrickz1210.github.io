@@ -8,6 +8,8 @@
 # Site Settings
 title: "Zhihan Zhang | Academic Homepage"
 description: "Zhihan Zhang at Wuhan University — Video Understanding and Efficient MLLM."
+url: "https://kendrick-powehi-z.github.io"
+baseurl: "/kendrickz1210.github.io"
 repository: "Kendrick-Powehi-Z/kendrickz1210.github.io"
 google_scholar_stats_use_cdn : true
 

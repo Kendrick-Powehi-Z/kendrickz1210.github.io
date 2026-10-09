@@ -27,7 +27,7 @@ My research interests include video understanding and efficient multimodal large
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <a href="/kendrickz1210.github.io/images/RSVQA.png"><img src="/kendrickz1210.github.io/images/RSVQA.png" alt="Remote sensing segmentation quality assessment workflow" loading="lazy"></a>
+    <a href="{{ site.baseurl }}/images/RSVQA.png"><img src="{{ site.baseurl }}/images/RSVQA.png" alt="Remote sensing segmentation quality assessment workflow" loading="lazy"></a>
   </div>
   <div class="paper-box-text">
     <p><strong>Remote Sensing Semantic Segmentation Quality Assessment Based on Vision Language Model</strong></p>
@@ -39,7 +39,7 @@ My research interests include video understanding and efficient multimodal large
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <a href="/kendrickz1210.github.io/images/LOP.png"><img src="/kendrickz1210.github.io/images/LOP.png" alt="LOP optimal pruning framework diagram" loading="lazy"></a>
+    <a href="{{ site.baseurl }}/images/LOP.png"><img src="{{ site.baseurl }}/images/LOP.png" alt="LOP optimal pruning framework diagram" loading="lazy"></a>
   </div>
   <div class="paper-box-text">
     <p><strong>LOP: Learning Optimal Pruning for Efficient On-Demand MLLMs Scaling</strong></p>
@@ -51,7 +51,7 @@ My research interests include video understanding and efficient multimodal large
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <a href="/kendrickz1210.github.io/images/TDSAgent.png"><img src="/kendrickz1210.github.io/images/TDSAgent.png" alt="TDSAgent video question answering workflow" loading="lazy"></a>
+    <a href="{{ site.baseurl }}/images/TDSAgent.png"><img src="{{ site.baseurl }}/images/TDSAgent.png" alt="TDSAgent video question answering workflow" loading="lazy"></a>
   </div>
   <div class="paper-box-text">
     <p><strong>TDSAgent: A Task-Driven Sampling Agent for Long Video Question Answering</strong></p>
